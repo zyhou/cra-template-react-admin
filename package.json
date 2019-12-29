@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-react-admin",
+  "version": "0.0.1",
+  "private": false,
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "react-admin"
+  ],
+  "description": "The base template for Create React App with React Admin.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marmelab/cra-template-react-admin.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/marmelab/cra-template-react-admin/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
