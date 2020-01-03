@@ -12,14 +12,14 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marmelab/cra-template-react-admin.git"
+    "url": "https://github.com/zyhou/cra-template-react-admin.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8"
   },
   "bugs": {
-    "url": "https://github.com/marmelab/cra-template-react-admin/issues"
+    "url": "https://github.com/zyhou/cra-template-react-admin/issues"
   },
   "publishConfig": {
     "access": "public"
